@@ -43,3 +43,25 @@ Este projeto surgiu durante a **Imersão em Realidade Aumentada**, com o objetiv
 ---
 
 ## 📁 Estrutura do Projeto
+residencia-tecnologica-projeto-ar-anatomia/
+├── index.html # Página principal com integração AR.js
+├── assets/
+│ ├── esqueleto.glb # Modelo 3D do esqueleto humano
+│ └── hiro-marker.jpg # Imagem do marcador (opcional, para referência)
+├── LEIA-ME.txt # Arquivo obrigatório para inscrição
+└── README.md # Este arquivo
+
+# 👩‍💻 Sobre a Autora
+
+**Bruna Maria Silva**  
+Estudante de Ciência da Computação / Acadêmica de Dados (UFMS)  
+Interessada em **tecnologia educacional, realidade aumentada, saúde digital e inovação acessível**.  
+🔗 [LinkedIn](https://www.linkedin.com/in/bruna-maria-051457122/) | 📧 bruna_stayne@hotmail.com
+
+---
+
+## 📞 Contato para Feedbacks
+
+Aberta a sugestões, parcerias educacionais ou oportunidades em projetos de impacto social com tecnologia!
+
+> ✨ *“Tecnologia não é só código — é ponte entre conhecimento e pessoas.”*
