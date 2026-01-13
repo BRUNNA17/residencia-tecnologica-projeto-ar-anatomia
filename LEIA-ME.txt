@@ -1,0 +1,13 @@
+Nome da Equipe: OsteoByte
+Nome do Projeto: WebAR Interativo em Anatomia
+Trilha: Trilha 2 – Aplicações em Realidade Aumentada
+Link da Aplicação (WebAR funcional): https://residencia-tecnologica-projeto-ar-ana.netlify.app/
+Link do Código Fonte: https://github.com/BRUNNA17/residencia-tecnologica-projeto-ar-anatomia
+
+Descrição:
+O projeto "WebAR Interativo em Anatomia" utiliza tecnologias WebAR (A-Frame + AR.js) para permitir a visualização interativa de um modelo 3D do esqueleto humano por meio de marcador Hiro. A aplicação é acessível diretamente pelo navegador, sem necessidade de instalação de aplicativos, com objetivo educacional em anatomia humana.
+
+Integrante:
+- Bruna Maria Silva
+
+Observação: Este projeto foi desenvolvido durante a Residência Realidade aumentada.
